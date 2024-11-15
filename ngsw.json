@@ -1,0 +1,145 @@
+{
+  "configVersion": 1,
+  "timestamp": 1731688991402,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-ALISD7OS.js",
+        "/manifest.webmanifest",
+        "/polyfills-FFHMD2TL.js",
+        "/styles-CXQTRY5X.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/favicon.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/imagen1.jpg",
+        "/assets/images/imagen10.jpg",
+        "/assets/images/imagen11.jpg",
+        "/assets/images/imagen12.jpg",
+        "/assets/images/imagen13.jpg",
+        "/assets/images/imagen14.jpg",
+        "/assets/images/imagen15.jpg",
+        "/assets/images/imagen16.jpg",
+        "/assets/images/imagen17.jpg",
+        "/assets/images/imagen18.jpg",
+        "/assets/images/imagen19.jpg",
+        "/assets/images/imagen2.jpg",
+        "/assets/images/imagen20.jpg",
+        "/assets/images/imagen3.jpg",
+        "/assets/images/imagen4.jpg",
+        "/assets/images/imagen5.jpg",
+        "/assets/images/imagen6.jpg",
+        "/assets/images/imagen7.jpg",
+        "/assets/images/imagen8.jpg",
+        "/assets/images/imagen9.jpg",
+        "/assets/screenshots/_mobile.png",
+        "/assets/screenshots/_mobile_.png",
+        "/assets/screenshots/desktop.png",
+        "/assets/screenshots/mobile.png",
+        "/assets/screenshots/mobile_.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "images-cache",
+      "patterns": [
+        "\\/assets\\/images\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 2592000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/assets/icons/favicon.png": "a553063a7229abc4325c620cccb4a3140ffaa30f",
+    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/assets/images/imagen1.jpg": "eef557d8ec7c3b33aaa35ee817cd7eb20799027b",
+    "/assets/images/imagen10.jpg": "36d016599e6ed2209471382172a27b6b67c6f4e7",
+    "/assets/images/imagen11.jpg": "09e2198b10fa60d38537d048035051096c990c44",
+    "/assets/images/imagen12.jpg": "7c1c8bee172afa8a89d8173f3ca6628e52404998",
+    "/assets/images/imagen13.jpg": "09e82f9e8941f60e38713b1194cd6e9c6fa1cc89",
+    "/assets/images/imagen14.jpg": "036183aae3709f9a20f24045ae7f7076856f04a2",
+    "/assets/images/imagen15.jpg": "3428804ecd2a00aa2686f07cdc2a290fce7b7d5e",
+    "/assets/images/imagen16.jpg": "b45b2124bf968e9e18cf11b1932db3bac20ddcb0",
+    "/assets/images/imagen17.jpg": "da9f594a8c45dfb96f586c8f66a02826622a26f0",
+    "/assets/images/imagen18.jpg": "0be445f60738913ad6d202bbba746c22f14f1805",
+    "/assets/images/imagen19.jpg": "5af46e05d898e13cc227544388e65f4026b7d3d9",
+    "/assets/images/imagen2.jpg": "6331397e19a1f6b049dae04ff394b7d614b60696",
+    "/assets/images/imagen20.jpg": "1f149283910b890f911041ff87fe7208f411b01b",
+    "/assets/images/imagen3.jpg": "86f39fd750088b51882d4e6921e8f85b0b2ed2ce",
+    "/assets/images/imagen4.jpg": "157e15cfa934d0f8ed2c5dcb3e1c60e436c40ec9",
+    "/assets/images/imagen5.jpg": "86a3e0af3d9372b578499615d3bae446976c388c",
+    "/assets/images/imagen6.jpg": "c15824b9ef6ba29003bf6ae9938059094f9c3d56",
+    "/assets/images/imagen7.jpg": "56f700c45b7d8b8c224024a7151e81904d736397",
+    "/assets/images/imagen8.jpg": "8dd775af661cb2f096f252f6e0a856d3b3a32005",
+    "/assets/images/imagen9.jpg": "23446103078ac8def154d37ecc39f8ad02a2141a",
+    "/assets/screenshots/_mobile.png": "6b3f4e57260c77efc33239f66f60562e9b788907",
+    "/assets/screenshots/_mobile_.png": "6c39be50ee18133a6bdafdc80213ba4141862e23",
+    "/assets/screenshots/desktop.png": "5b016f6e6b2bd0e2e57debe7e5a6a0028d5d2c38",
+    "/assets/screenshots/mobile.png": "6c39be50ee18133a6bdafdc80213ba4141862e23",
+    "/assets/screenshots/mobile_.png": "18d4c8607da4713bd01a68dcb87edc254b377451",
+    "/favicon.ico": "be17cf05b7666b4cf610e3ae3c0cb326b661b4d7",
+    "/index.html": "cb687b483c176bda87188290139d44feb1aef652",
+    "/main-ALISD7OS.js": "3348b6ec26ace057c0ec0f867afd48e34c0e27fd",
+    "/manifest.webmanifest": "93b33c6e8c8d96ea8f7f5e286a7323465625eb39",
+    "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/styles-CXQTRY5X.css": "be208e1d246b8316397f9b74e5ab834d4e9e0a18"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
